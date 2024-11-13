@@ -22,3 +22,5 @@ Para esto se necesita colaboradores en:
 - Backends
 - Frontend & UX/UI
 
+Si deseas colaborar porfavor completa este formulario:
+https://forms.gle/aySi2kAECGEPRLEe7
